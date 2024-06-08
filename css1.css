@@ -1,0 +1,26 @@
+.firstSection {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 40px 0;
+  }
+
+  .firstSection > div {
+    width: 40%;
+  }
+
+
+
+  .firstSection .btn {
+    padding: 12px;
+    background-color: rgb(109, 17, 195);
+    border: 2px solid white;
+    border-radius: 6px;
+    font-size: 20px;
+    cursor: pointer;
+    color: white;
+  }
+  
+.leftsection .buttons{
+    padding: 20px;
+}

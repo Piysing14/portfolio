@@ -1,0 +1,55 @@
+.secondSection{
+    max-width: 90vw;
+    margin: auto;
+    height: 80vh;
+  }
+
+  
+.secondSection h1{
+    font-size: 50px;
+}
+
+.text-grey{
+
+color: grey;
+}
+
+.secondSection .box{
+height: 2px;
+margin: 55px 0;
+background-color: white;
+width: 55vw;
+display: flex;
+}
+
+.secondSection .vertical{
+height: 93px;
+background-color: white;
+width: 1px;
+margin: 0 200px;
+
+}
+
+.vertical-title{
+    position: relative;
+    left: 7px;
+    top: 40px;
+    width: 180px;
+
+}
+
+.verticalDesc{
+    position: relative;
+    top: 60px;
+    color: grey;
+    width: 300px;
+    font-size: 15px;
+
+}
+
+.education{
+    width: 100px;
+    position: relative;
+    top: -32px;
+    left: -46px;
+}
